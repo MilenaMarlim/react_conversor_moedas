@@ -11,6 +11,8 @@ PROJETO EM CONSTRUÇÃO para treinar conceitos JavaScript/React
   
  🚀  Quer ver como o projeto está ficando? Clique:</br>
  https://react-conversor-moedas.vercel.app/
+ 
+ 🚀 API utilizada: https://economia.awesomeapi.com.br/json/last/USD-BRL,EUR-BRL
 
 </p>
 
